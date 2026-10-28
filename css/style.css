@@ -58,9 +58,9 @@ img {
 :root {
   --color-light: #eee;
   --color-grey: #c2b9b9;
-  --color-dark: #323438;
+  --color-dark: #3a3d42;
   --color-text: #fff;
-  --color-second: #08b9c2;
+  --color-second: #00d69a;
 
   --font-family: "Josefin Sans", sans-serif;
   --second-family: "Montserrat", sans-serif;
